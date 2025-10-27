@@ -1,0 +1,21 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# AWS SAM / build artifacts
+.build/
+.builds/
+
+# OS
+.DS_Store
+
+# Images placeholders (keep actual images versioned if useful)
+images/*.psd
