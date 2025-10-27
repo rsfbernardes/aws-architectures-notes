@@ -44,6 +44,6 @@ Recursos e referências rápidas
 - Exemplos de Terraform no diretório scripts/
 
 Contato
-- Autor / estudante: rsfbernardes
+- Autor / estudante: Rodrigo Bernardes (rsfbernardes)
 
 -- Fim --
